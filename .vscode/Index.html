@@ -5,12 +5,93 @@
     <meta name="viewprot" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>chatbot</title>
+<<<<<<< HEAD
+=======
+    {% block scripts %}
+
+    <script>
+     function chatTrain() {
+        alert('Training...');
+    }
+    function sendAsk() {
+        ctext = document.getElementById("chattext").value;
+        if(ctext == "") {
+            document.getElementById("chattext").focus();
+            return false;
+        }
+        //alert(ctext);
+
+        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:3px;'>" + ctext + "</span></div>"
+        document.getElementById("chatbox").innerHTML += addtext;
+
+        bottext = "<div style='margin:14px 0;text-align:left;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'> 저는 배재봇입니다.</span></div>"
+        document.getElementById("chatbox").innerHTML += bottext;
+    }
+    </script>
+    
+    {% endblock %}
+    {% block styles %}
+>>>>>>> 3e339198e1e769902e8b286af252cf554bb561c8
     <style>
-      
+      .chatheader {
+          position:fixed;
+          left:0;
+          top:0;
+          width:100%;
+          padding:10px 0;
+          background-color:#DDD;
+          color:#000;
+          text-align:center;
+      }
+      .chatfooter {
+          position:fixed;
+          left:0;
+          bottom:0;
+          width:100%;
+          padding:10px 0;
+          background-color:#FFF;
+          color:#000;
+          text-align:center;
+      }
     </style>
+    {% endblock %}
   </head>
 
+<<<<<<< HEAD
   <body>
     <dv>
+=======
+  <body style="height:100%;background-color:#BBCCDD;">
+    
+    
+    <div class="chatheader">
+        <table width="100%">
+            <tr>
+                <td width="50%" align="left">R.P Chat</td>
+                <td width="50%" align="right">
+                <span onclick="chatTrain()" style="cursor:pointer;">Train</span></td>
+            </tr>
+        </table>
+    </div>
+
+
+    <div style="height:450px;margin-top:55px;background-color:#BBCCDD" id="chatbox"></div>
+    <div class="chatfooter">
+    <table width="100%">
+            <tr>
+                <td width="85%" align="left">
+                    <input type="text" id="chattext" style="padding:10px 0;width:100%;">
+                </td>
+                <td width="15%" align="right">
+                    <button style="padding:10px 0;width:100%;" onclick="sendAsk()">SEND</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    
+    
+
+>>>>>>> 3e339198e1e769902e8b286af252cf554bb561c8
   </body>
 </html>
