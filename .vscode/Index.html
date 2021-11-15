@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>chatbot</title>
 
+
     {% block scripts %}
 
     <script>
@@ -38,10 +39,12 @@
           left:0;
           top:0;
           width:100%;
-          padding:10px 0;
           background-color:#DDD;
           color:#000;
           text-align:center;
+          overflow: visible;
+          overflow: scroll;
+        
       }
       .chatfooter {
           position:fixed;
@@ -52,12 +55,13 @@
           background-color:#FFF;
           color:#000;
           text-align:center;
+          overflow: visible;
+          overflow: scroll;
       }
-      
+
     </style>
     {% endblock %}
   </head>
-
 
 
   <body style="height:100%;background-color:#BBCCDD;">
@@ -98,9 +102,6 @@
             </tr>
         </table>
     </div>
-
-    
-
 
   </body>
 </html>
