@@ -5,8 +5,6 @@
     <meta name="viewprot" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>chatbot</title>
-<<<<<<< HEAD
-=======
     {% block scripts %}
 
     <script>
@@ -19,19 +17,19 @@
             document.getElementById("chattext").focus();
             return false;
         }
-        //alert(ctext);
-
-        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:3px;'>" + ctext + "</span></div>"
+        
+        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;'>" + ctext + "</span></div>"
         document.getElementById("chatbox").innerHTML += addtext;
+        document.getElementById("chattext").value = "";
 
-        bottext = "<div style='margin:14px 0;text-align:left;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'> 저는 배재봇입니다.</span></div>"
+        bottext = "<div style='margin:14px 0;text-align:left;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px;'> 저는 배재봇입니다.</span></div>"
         document.getElementById("chatbox").innerHTML += bottext;
     }
+    
     </script>
     
     {% endblock %}
     {% block styles %}
->>>>>>> 3e339198e1e769902e8b286af252cf554bb561c8
     <style>
       .chatheader {
           position:fixed;
@@ -53,14 +51,15 @@
           color:#000;
           text-align:center;
       }
+      
     </style>
     {% endblock %}
   </head>
 
-<<<<<<< HEAD
+
   <body>
     <dv>
-=======
+
   <body style="height:100%;background-color:#BBCCDD;">
     
     
@@ -91,6 +90,6 @@
 
     
 
->>>>>>> 3e339198e1e769902e8b286af252cf554bb561c8
+
   </body>
 </html>
