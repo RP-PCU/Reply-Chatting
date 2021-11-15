@@ -5,7 +5,7 @@
     <meta name="viewprot" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>chatbot</title>
-    
+
     {% block scripts %}
 
     <script>
@@ -18,6 +18,7 @@
             document.getElementById("chattext").focus();
             return false;
         }
+        
         //alert(ctext);
 
         addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:3px;'>" + ctext + "</span></div>"
@@ -70,15 +71,26 @@
     </div>
 
 
-    <div style="height:450px;margin-top:55px;background-color:#BBCCDD" id="chatbox"></div>
+    <div style="height:450px;margin-top:55px;background-color:#BBCCDD" id="chatbox">
+        <div style='margin:14px 0;text-align:left;'>
+        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'>
+         배재봇에 오신걸 환영합니다.</span>
+        </div>
+        <div style='margin:14px 0;text-align:left;'>
+        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'>
+         질문을 입력 해주세요</span>
+        </div>
+    </div>
     <div class="chatfooter">
     <table width="100%">
             <tr>
                 <td width="85%" align="left">
-                    <input type="text" id="chattext" style="padding:10px 0;width:100%;">
+                    <input type="text" id="chattext" style="padding:10px 0;width:100%;"
+                    value = "내용을 입력하세요" onfocus="this.value=''"
+                    onkeyup="if(window.event.keyCode==13){sendAsk()}"/>
                 </td>
                 <td width="15%" align="right">
-                    <button style="padding:10px 0;width:100%;" onclick="sendAsk()">SEND</button>
+                    <button style="padding:10px 0;width:100%;" onclick="sendAsk()" id="send"/>SEND</button>
                 </td>
             </tr>
         </table>
