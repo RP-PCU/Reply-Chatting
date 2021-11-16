@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>chatbot</title>
 
+
     {% block scripts %}
 
     <script>
@@ -16,11 +17,12 @@
         ctext = document.getElementById("chattext").value;
         if(ctext == "") {
             document.getElementById("chattext").focus();
+            alert('내용을 입력해주세요!');
             return false;
         }
         
 
-        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;'>" + ctext + "</span></div>"
+        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block; width: 200px;'>" + ctext + "</span></div>"
         document.getElementById("chatbox").innerHTML += addtext;
         document.getElementById("chattext").value = "";
 
@@ -38,10 +40,12 @@
           left:0;
           top:0;
           width:100%;
-          padding:10px 0;
           background-color:#DDD;
           color:#000;
           text-align:center;
+          overflow: visible;
+          overflow: scroll;
+        
       }
       .chatfooter {
           position:fixed;
@@ -52,8 +56,13 @@
           background-color:#FFF;
           color:#000;
           text-align:center;
+          overflow: visible;
+          overflow: scroll;
       }
-      
+      .nm {
+          opacity = 0.5;
+      }
+
     </style>
     {% endblock %}
   </head>
@@ -68,6 +77,8 @@
          background-attachment: fixed;
          background-position: center center;
          " ">
+
+  <body style="height:100%;background-color:#BBCCDD;">
     
     <div style = ' background-size : cover ' > </div>
     
@@ -105,9 +116,8 @@
     <div class="chatfooter">
     <table width="100%">
             <tr>
-                <td width="85%" align="left">
+                <td width="85%" align="left" >
                     <input type="text" id="chattext" style="padding:10px 0;width:100%;"
-                    value = "내용을 입력하세요" onfocus="this.value=''"
                     onkeyup="if(window.event.keyCode==13){sendAsk()}"/>
                 </td>
                 <td width="15%" align="right">
@@ -116,5 +126,7 @@
             </tr>
         </table>
     </div>
+
   </body>
 </html>
+
