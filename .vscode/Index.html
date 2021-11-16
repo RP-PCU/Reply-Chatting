@@ -8,7 +8,6 @@
 
 
     {% block scripts %}
-
     <script>
      function chatTrain() {
         alert('Training...');
@@ -29,9 +28,7 @@
         bottext = "<div style='margin:14px 0;text-align:left;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px;'> 저는 배재봇입니다.</span></div>"
         document.getElementById("chatbox").innerHTML += bottext;
     }
-    
     </script>
-    
     {% endblock %}
     {% block styles %}
     <style>
@@ -40,12 +37,11 @@
           left:0;
           top:0;
           width:100%;
+          height:30px;
           background-color:#DDD;
           color:#000;
           text-align:center;
-          overflow: visible;
-          overflow: scroll;
-        
+          overflow:visible;
       }
       .chatfooter {
           position:fixed;
@@ -56,13 +52,8 @@
           background-color:#FFF;
           color:#000;
           text-align:center;
-          overflow: visible;
-          overflow: scroll;
+          overflow:scroll;
       }
-      .nm {
-          opacity = 0.5;
-      }
-
     </style>
     {% endblock %}
   </head>
@@ -84,11 +75,11 @@
 
     <div style="height:450px;margin-top:55px;background-color:#BBCCDD" id="chatbox">
         <div style='margin:14px 0;text-align:left;'>
-        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'>
+        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px;'>
          배재봇에 오신걸 환영합니다.</span>
         </div>
         <div style='margin:14px 0;text-align:left;'>
-        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:3px;'>
+        <span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px;'>
          질문을 입력 해주세요</span>
         </div>
     </div>
