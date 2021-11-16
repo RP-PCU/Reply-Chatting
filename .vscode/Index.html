@@ -17,11 +17,12 @@
         ctext = document.getElementById("chattext").value;
         if(ctext == "") {
             document.getElementById("chattext").focus();
+            alert('내용을 입력해주세요!');
             return false;
         }
         
 
-        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display: inline-block; width: 200px;'>" + ctext + "</span></div>"
+        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block; width: 200px;'>" + ctext + "</span></div>"
         document.getElementById("chatbox").innerHTML += addtext;
         document.getElementById("chattext").value = "";
 
@@ -58,6 +59,9 @@
           overflow: visible;
           overflow: scroll;
       }
+      .nm {
+          opacity = 0.5;
+      }
 
     </style>
     {% endblock %}
@@ -91,9 +95,8 @@
     <div class="chatfooter">
     <table width="100%">
             <tr>
-                <td width="85%" align="left">
+                <td width="85%" align="left" >
                     <input type="text" id="chattext" style="padding:10px 0;width:100%;"
-                    value = "내용을 입력하세요" onfocus="this.value=''"
                     onkeyup="if(window.event.keyCode==13){sendAsk()}"/>
                 </td>
                 <td width="15%" align="right">
