@@ -21,7 +21,7 @@
         }
         
 
-        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block; clear: both; float: right; '>" 
+        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block;  clear: both; float: right;'>" 
                   + ctext + 
                   "</span></div>"
         document.getElementById("chatbox").innerHTML += addtext;
@@ -43,6 +43,7 @@
           background-color:#DDD;
           color:#000;
           text-align:center;
+          
       }
       .chatfooter {
           position:fixed;
@@ -53,7 +54,7 @@
           background-color:#FFF;
           color:#000;
           text-align:center;
-          
+          overflow: scroll;
       }
     </style>
     {% endblock %}
@@ -64,12 +65,7 @@
 
 
   <body style="height:100%;background-color: #F2F8D7;
-  background-image: url('배재대학교.png'); 
-         background-repeat: no-repeat;
-         background-size: 40% 40%;
-         background-attachment: fixed;
-         background-position: center center;
-         " ">
+        " ">
 
   <body style="height:100%;background-color:#BBCCDD; ">
     
@@ -86,7 +82,8 @@
     </div>
 
 
-    <div style="height:450px;margin-top:55px;background-color: #F2F8D7; 
+    <div style="height:580px;margin-top:55px;background-color: #F2F8D7; 
+         overflow: auto;
          background-image: url('배재대학교.png'); 
          background-repeat: no-repeat;
          background-size: 40% 40%;
