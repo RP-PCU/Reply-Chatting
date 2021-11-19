@@ -21,15 +21,19 @@
         }
         
 
-        addtext = "<div style='margin:14px 0;text-align:right;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block;  clear: both; float: right;'>" 
+
+        addtext = "<div style='margin:14px 0;text-align:right;float:right;width:30%;clear:both;'><span style='background-color:#3388cc;padding:5px 8px;border-radius:5px;display:inline-block; word-break:break-all;'>" 
                   + ctext + 
                   "</span></div>"
         document.getElementById("chatbox").innerHTML += addtext;
         document.getElementById("chattext").value = "";
 
-        bottext = "<div style='margin:14px 0;text-align:left;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px; clear: both; float: left;' > 저는 배재봇입니다.</span></div>"
+        
+        bottext = "<div style='margin:14px 0;text-align:left;float:left;width:30%;clear:both;'><span style='background-color:#DDDDDD;padding:5px 8px;border-radius:5px;display:inline-block; word-break:break-all;' > 저는 배재봇입니다.</span></div>"
         document.getElementById("chatbox").innerHTML += bottext;
+        
     }
+    
     </script>
     {% endblock %}
     {% block styles %}
@@ -60,10 +64,18 @@
   </head>
 
 
-
-
   <body style="height:100%;background-color: #F2F8D7;
+<<<<<<< HEAD
+  background-image: url('배재대학교.png'); 
+         background-repeat: no-repeat;
+         background-size: 40% 40%;
+         background-attachment: fixed;
+         background-position: center center;
+         
+         " ">
+=======
         " ">
+>>>>>>> 26975795581822cd26ef007a834d13ed47c0713d
 
   <body style="height:100%;background-color:#BBCCDD; ">
     
@@ -80,8 +92,13 @@
     </div>
 
 
+<<<<<<< HEAD
+    <div style="height:635px;margin-top:10px;background-color: #F2F8D7;
+         overflow:auto; 
+=======
     <div style="height:635px;margin-top:10px;background-color: #F2F8D7; 
          overflow: auto;
+>>>>>>> 26975795581822cd26ef007a834d13ed47c0713d
          background-image: url('배재대학교.png'); 
          background-repeat: no-repeat;
          background-size: 40% 40%;
