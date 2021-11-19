@@ -1,34 +1,18 @@
-"""
-@auther Hyunwoong
-@since 7/1/2020
-@see https://github.com/gusdnd852
-"""
 
-from kocrawl.dust import DustCrawler
-from kocrawl.weather import WeatherCrawler
-from kochat.app import Scenario
+from Reply_Chatting.app import Scenario
 from kocrawl.map import MapCrawler
 
-weather = Scenario(
-    intent='weather',
-    api=WeatherCrawler().request,
+# 장소
+Place = Scenario(
+    intent='information',
+    api=MapCrawler().request,
     scenario={
-        'LOCATION': [],
-        'DATE': ['오늘']
+        'PLACE': []
     }
 )
 
-dust = Scenario(
-    intent='dust',
-    api=DustCrawler().request,
-    scenario={
-        'LOCATION': [],
-        'DATE': ['오늘']
-    }
-)
-
-restaurant = Scenario(
-    intent='restaurant',
+university = Scenario(
+    intent='university',
     api=MapCrawler().request,
     scenario={
         'LOCATION': [],
@@ -36,11 +20,13 @@ restaurant = Scenario(
     }
 )
 
-travel = Scenario(
-    intent='travel',
-    api=MapCrawler().request,
+professor = Scenario(
+    intent='professor',
+    api=DustCrawler().request,
     scenario={
         'LOCATION': [],
-        'PLACE': ['관광지']
+        'DATE': ['오늘']
     }
 )
+
+

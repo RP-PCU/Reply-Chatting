@@ -1,10 +1,11 @@
+
 from flask import render_template
 
-from app import KochatApi
-from data import Dataset
-from loss import CRFLoss, CosFace, CenterLoss, COCOLoss, CrossEntropyLoss
-from model import intent, embed, entity
-from proc import DistanceClassifier, GensimEmbedder, EntityRecognizer, SoftmaxClassifier
+from kochat.app import KochatApi
+from kochat.data import Dataset
+from kochat.loss import CRFLoss, CosFace, CenterLoss, COCOLoss, CrossEntropyLoss
+from kochat.model import intent, embed, entity
+from kochat.proc import DistanceClassifier, GensimEmbedder, EntityRecognizer, SoftmaxClassifier
 
 from demo.scenario import dust, weather, travel, restaurant
 # from scenario import dust, weather, travel, restaurant
