@@ -1,6 +1,7 @@
 
 from Reply_Chatting.app import Scenario
 from kocrawl.map import MapCrawler
+from KOCRAWL.kocrawl.uni import UniCrawler
 
 # 장소
 Place = Scenario(
@@ -13,19 +14,10 @@ Place = Scenario(
 
 university = Scenario(
     intent='university',
-    api=MapCrawler().request,
+    api=UniCrawler().request,
     scenario={
         'LOCATION': [],
-        'PLACE': ['맛집']
-    }
-)
-
-professor = Scenario(
-    intent='professor',
-    api=DustCrawler().request,
-    scenario={
-        'LOCATION': [],
-        'DATE': ['오늘']
+        'PLACE': ['학교건물']
     }
 )
 
