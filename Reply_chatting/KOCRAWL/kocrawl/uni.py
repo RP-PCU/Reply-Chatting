@@ -21,9 +21,6 @@ class UniCrawler(BaseCrawler):
     
     def request_dict(self, location: str, place: str):
         """
-        지도를 크롤링합니다.
-        (try-catch로 에러가 나지 않는 함수)
-
         :param location: 지역
         :param place: 장소
         :return: 해당지역 장소
