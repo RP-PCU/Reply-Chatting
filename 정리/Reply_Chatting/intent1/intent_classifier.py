@@ -13,11 +13,7 @@ from torch.nn import Parameter # 모듈 매개변수로 간주되는 일종의 T
 
 
 from decorators import intent # 파일 가져오기 및 사용
-<<<<<<< HEAD:rnn_intent/intent/intent_classifier.py
-from proc.torch_processor import TorchProcessor  # 파일 가져오기 및 사용
-=======
 from torch_processor import TorchProcessor  # 파일 가져오기 및 사용
->>>>>>> a8bdcdf2f552e0910108787822d444aa8951b41c:Reply_chatting/kochat/proc/intent_classifier.py
 
 
 @intent

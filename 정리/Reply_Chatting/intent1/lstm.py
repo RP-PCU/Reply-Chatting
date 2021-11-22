@@ -13,11 +13,7 @@ class LSTM(nn.Module): # 클래스 생성하고 모듈 상속
         # label_dict: 라벨 딕셔너리 bidirectional 여부
         
 
-<<<<<<< HEAD:rnn_intent/intent/lstm.py
-        super().__init__() # (사용할 함수 RNN을 정의하는 장소)
-=======
         super().__init__() # (사용할 함수 CNN을 정의하는 장소)
->>>>>>> a8bdcdf2f552e0910108787822d444aa8951b41c:Reply_chatting/kochat/model/intent/lstm.py
 
         self.label_dict = label_dict
         self.direction = 2 if bidirectional else 1
