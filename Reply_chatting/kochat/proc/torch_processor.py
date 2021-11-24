@@ -10,9 +10,9 @@ from torch.nn.parameter import Parameter
 from torch.optim import Adam
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
-from proc.base_processor import BaseProcessor
-from utils.metrics import Metrics
-from utils.visualizer import Visualizer
+from kochat.proc.base_processor import BaseProcessor
+from kochat.utils.metrics import Metrics
+from kochat.utils.visualizer import Visualizer
 #from * import @  => *에서 @ 불러오기
 
 class TorchProcessor(BaseProcessor):

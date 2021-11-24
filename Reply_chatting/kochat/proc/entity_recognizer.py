@@ -2,11 +2,11 @@ import torch
 from torch import nn
 from torch import Tensor
 
-from decorators import entity
-from loss.base_loss import BaseLoss
-from loss.crf_loss import CRFLoss
-from loss.masking import Masking
-from proc.torch_processor import TorchProcessor
+from kochat.decorators import entity
+from kochat.loss.base_loss import BaseLoss
+from kochat.loss.crf_loss import CRFLoss
+from kochat.loss.masking import Masking
+from kochat.proc.torch_processor import TorchProcessor
 #from * import @  => *에서 @ 불러오기
 
 @entity

@@ -3,7 +3,7 @@ import torch
 #torch에서 nn, autograd, Tensor 사용
 from torch import nn, autograd
 from torch import Tensor
-from decorators import entity
+from kochat.decorators import entity
 
 @entity
 class LSTM(nn.Module):  #LSTM 모델 클래스 생성

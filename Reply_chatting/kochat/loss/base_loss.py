@@ -3,7 +3,7 @@ from abc import abstractmethod
 from torch import Tensor
 from torch import nn
 
-from decorators import loss
+from kochat.decorators import loss
 #from * import @  => *에서 @ 불러오기
 
 @loss

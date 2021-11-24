@@ -1,6 +1,6 @@
 from gensim.models import FastText
 # FastText를 사용한다면 단어들을 벡터로 표현하는 것과 , 문장분류에 효율적인 학습을 보여줍니다
-from decorators import gensim
+from kochat.decorators import gensim
 #decorators를 사용 하여 기존코드에 기능을 추가 한다. 
 
 

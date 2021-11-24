@@ -1,7 +1,7 @@
 from abc import abstractmethod
 from typing import Any
 
-from decorators import proc
+from kochat.decorators import proc
 #from * import @  => *에서 @ 불러오기
 
 @proc

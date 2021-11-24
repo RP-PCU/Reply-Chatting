@@ -1,5 +1,5 @@
 
-from Reply_Chatting.app import Scenario
+from kochat.app import Scenario
 from kocrawl.map import MapCrawler
 from KOCRAWL.kocrawl.uni import UniCrawler
 

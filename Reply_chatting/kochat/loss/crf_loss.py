@@ -2,8 +2,8 @@ from torch import Tensor
 from torch import nn
 from torchcrf import CRF
 
-from decorators import entity
-from loss.base_loss import BaseLoss
+from kochat.decorators import entity
+from kochat.loss.base_loss import BaseLoss
 #from * import @  => *에서 @ 불러오기
 
 @entity

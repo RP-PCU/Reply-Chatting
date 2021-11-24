@@ -12,9 +12,9 @@ from gensim.models.base_any2vec import BaseWordEmbeddingsModel
 from gensim.models.callbacks import CallbackAny2Vec
 from torch import Tensor
 
-from decorators import gensim
+from kochat.decorators import gensim
 #구조 클래스를 처리할 수 있는 클래스에 필요한 구현을 나타내는 추상클래스를 위하여 사용합니다.
-from proc.base_processor import BaseProcessor
+from kochat.proc.base_processor import BaseProcessor
 
 
 @gensim
