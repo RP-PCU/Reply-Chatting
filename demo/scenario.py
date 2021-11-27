@@ -1,21 +1,34 @@
+"""
+@auther Hyunwoong
+@since 7/1/2020
+@see https://github.com/gusdnd852
+"""
 
+from kocrawl.dust import DustCrawler
+from kocrawl.weather import WeatherCrawler
 from kochat.app import Scenario
 from kocrawl.map import MapCrawler
-from KOCRAWL.kocrawl.uni import UniCrawler
 
-
-# 건물
-university = Scenario(
-    intent='university',
-    api=UniCrawler().request,
+weather = Scenario(
+    intent='weather',
+    api=WeatherCrawler().request,
     scenario={
-        'PLACE': []
+        'LOCATION': [],
+        'DATE': ['오늘']
     }
 )
 
-# 맛집
-restaurnt = Scenario(
-    intent='restaurnt',
+dust = Scenario(
+    intent='dust',
+    api=DustCrawler().request,
+    scenario={
+        'LOCATION': [],
+        'DATE': ['오늘']
+    }
+)
+
+restaurant = Scenario(
+    intent='restaurant',
     api=MapCrawler().request,
     scenario={
         'LOCATION': [],
@@ -23,3 +36,11 @@ restaurnt = Scenario(
     }
 )
 
+travel = Scenario(
+    intent='travel',
+    api=MapCrawler().request,
+    scenario={
+        'LOCATION': [],
+        'PLACE': ['관광지']
+    }
+)

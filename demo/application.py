@@ -1,5 +1,5 @@
 import sys
-sys.path.append('C:\Reply-Chatting\Reply_chatting')
+sys.path.append('C:\Reply-Chatting')
 from flask import render_template
 
 from kochat.app import KochatApi
@@ -8,7 +8,7 @@ from kochat.loss import CRFLoss, CosFace, CenterLoss, COCOLoss, CrossEntropyLoss
 from kochat.model import intent, embed, entity
 from kochat.proc import DistanceClassifier, GensimEmbedder, EntityRecognizer, SoftmaxClassifier
 
-from scenario import dust, weather, travel, restaurant
+from scenario import restaurant
 # from scenario import dust, weather, travel, restaurant
 # 에러 나면 이걸로 실행해보세요!
 
@@ -32,7 +32,7 @@ kochat = KochatApi(
     intent_classifier=(clf, True),
     entity_recognizer=(rcn, True),
     scenarios=[
-        weather, dust, travel, restaurant
+         restaurant
     ]
 )
 
@@ -45,4 +45,4 @@ def index():
 if __name__ == '__main__':
     kochat.app.template_folder = kochat.root_dir + 'templates'
     kochat.app.static_folder = kochat.root_dir + 'static'
-    kochat.app.run(port=8080, host='172.17.0.1')
+    kochat.app.run(port=8080, host='127.0.0.1')
