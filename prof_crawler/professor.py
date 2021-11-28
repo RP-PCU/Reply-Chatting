@@ -38,7 +38,7 @@ trs = soup.select('tr')
 
 professor = driver.find_element(By.CLASS_NAME,"table").text
 sys.stdout = open('professor_info.txt','a')
-
+print(professor)
 
 """
 professor_list = []
