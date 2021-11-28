@@ -94,7 +94,7 @@ function requestChat(messageText, url_pattern) {
             if (state === 'SUCCESS') {
                 return sendMessage(data['answer'], 'left');
             } else if (state === 'REQUIRE_LOCATION') {
-                return sendMessage('어느 지역을 알려드릴까요?', 'left');
+                return sendMessage('배재대 혹은 배재대학교를 입력해주세요!', 'left');
             } else {
                 return sendMessage('죄송합니다. 무슨말인지 잘 모르겠어요.', 'left');
             }
