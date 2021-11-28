@@ -70,7 +70,7 @@ question,label
 배재대 칼국수 추천해 주라,S-LOCATION S-PLACE O O
 배재대 피자 추천해 주라,S-LOCATION S-PLACE O O
 배재대 떡볶이 추천해 주라,S-LOCATION S-PLACE O O
-배재대 짬뽕 추천해 주라,S-LOCATION S-PLACE O
+배재대 짬뽕 추천해 주라,S-LOCATION S-PLACE O O
 배재대 닭발 추천해 주라,S-LOCATION S-PLACE O O
 배재대 돈가스 추천해 주라,S-LOCATION S-PLACE O O
 배재대 횟집 추천해 주라,S-LOCATION S-PLACE O O
@@ -198,7 +198,7 @@ question,label
 배재대 근처 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근처 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근처 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 근처 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 근처 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근처 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근처 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근처 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -326,7 +326,7 @@ question,label
 배재대 주변 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주변 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주변 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 주변 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 주변 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주변 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주변 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주변 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -454,7 +454,7 @@ question,label
 배재대 정문 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 정문 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 정문 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 정문 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 정문 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 정문 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 정문 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 정문 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -582,7 +582,7 @@ question,label
 배재대 후문 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 후문 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 후문 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 후문 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 후문 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 후문 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 후문 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 후문 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -710,7 +710,7 @@ question,label
 배재대 인근 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 인근 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 인근 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 인근 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 인근 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 인근 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 인근 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 인근 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -838,7 +838,7 @@ question,label
 배재대 주위 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주위 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주위 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 주위 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 주위 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주위 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주위 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 주위 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -966,7 +966,7 @@ question,label
 배재대 옆 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 옆 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 옆 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 옆 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 옆 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 옆 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 옆 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 옆 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -1094,7 +1094,7 @@ question,label
 배재대 부근 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 부근 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 부근 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 부근 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 부근 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 부근 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 부근 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 부근 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -1222,7 +1222,7 @@ question,label
 배재대 근방 칼국수 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근방 피자 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근방 떡볶이 추천해 주라,S-LOCATION O S-PLACE O O
-배재대 근방 짬뽕 추천해 주라,S-LOCATION O S-PLACE O
+배재대 근방 짬뽕 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근방 닭발 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근방 돈가스 추천해 주라,S-LOCATION O S-PLACE O O
 배재대 근방 횟집 추천해 주라,S-LOCATION O S-PLACE O O
@@ -1350,7 +1350,7 @@ question,label
 배재대 칼국수 맛집 추천해 주라,S-LOCATION S-PLACE O O O
 배재대 피자 맛집 추천해 주라,S-LOCATION S-PLACE O O O
 배재대 떡볶이 맛집 추천해 주라,S-LOCATION S-PLACE O O O
-배재대 짬뽕 맛집 추천해 주라,S-LOCATION S-PLACE O O
+배재대 짬뽕 맛집 추천해 주라,S-LOCATION S-PLACE O O O
 배재대 닭발 맛집 추천해 주라,S-LOCATION S-PLACE O O O
 배재대 돈가스 맛집 추천해 주라,S-LOCATION S-PLACE O O O
 배재대 횟집 맛집 추천해 주라,S-LOCATION S-PLACE O O O
@@ -1478,7 +1478,7 @@ question,label
 배재대 근처 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근처 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근처 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 근처 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 근처 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근처 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근처 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근처 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -1606,7 +1606,7 @@ question,label
 배재대 주변 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주변 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주변 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 주변 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 주변 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주변 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주변 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주변 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -1734,7 +1734,7 @@ question,label
 배재대 정문 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 정문 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 정문 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 정문 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 정문 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 정문 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 정문 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 정문 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -1862,7 +1862,7 @@ question,label
 배재대 후문 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 후문 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 후문 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 후문 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 후문 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 후문 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 후문 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 후문 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -1990,7 +1990,7 @@ question,label
 배재대 인근 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 인근 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 인근 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 인근 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 인근 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 인근 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 인근 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 인근 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -2118,7 +2118,7 @@ question,label
 배재대 주위 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주위 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주위 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 주위 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 주위 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주위 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주위 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 주위 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -2246,7 +2246,7 @@ question,label
 배재대 옆 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 옆 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 옆 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 옆 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 옆 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 옆 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 옆 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 옆 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -2374,7 +2374,7 @@ question,label
 배재대 부근 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 부근 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 부근 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 부근 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 부근 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 부근 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 부근 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 부근 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -2502,7 +2502,7 @@ question,label
 배재대 근방 칼국수 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근방 피자 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근방 떡볶이 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
-배재대 근방 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O
+배재대 근방 짬뽕 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근방 닭발 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근방 돈가스 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
 배재대 근방 횟집 맛집 추천해 주라,S-LOCATION O S-PLACE O O O
@@ -2630,7 +2630,7 @@ question,label
 배재대 근처 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근처 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -2758,7 +2758,7 @@ question,label
 배재대 주변 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주변 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -2886,7 +2886,7 @@ question,label
 배재대 정문 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 정문 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3014,7 +3014,7 @@ question,label
 배재대 후문 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 후문 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3142,7 +3142,7 @@ question,label
 배재대 인근 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 인근 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3270,7 +3270,7 @@ question,label
 배재대 주위 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주위 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3398,7 +3398,7 @@ question,label
 배재대 옆 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 옆 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 옆 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3526,7 +3526,7 @@ question,label
 배재대 부근 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 부근 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3654,7 +3654,7 @@ question,label
 배재대 근방 유명한 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 유명한 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 유명한 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근방 유명한 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 유명한 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 유명한 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 유명한 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3782,7 +3782,7 @@ question,label
 배재대 근처 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근처 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -3910,7 +3910,7 @@ question,label
 배재대 주변 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주변 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4038,7 +4038,7 @@ question,label
 배재대 정문 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 정문 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4166,7 +4166,7 @@ question,label
 배재대 후문 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 후문 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4294,7 +4294,7 @@ question,label
 배재대 인근 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 인근 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4422,7 +4422,7 @@ question,label
 배재대 주위 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주위 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4550,7 +4550,7 @@ question,label
 배재대 옆 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 옆 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 옆 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4678,7 +4678,7 @@ question,label
 배재대 부근 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 부근 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4806,7 +4806,7 @@ question,label
 배재대 근방 소문난 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 소문난 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 소문난 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근방 소문난 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 소문난 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 소문난 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 소문난 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -4934,7 +4934,7 @@ question,label
 배재대 근처 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근처 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5062,7 +5062,7 @@ question,label
 배재대 주변 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주변 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5190,7 +5190,7 @@ question,label
 배재대 정문 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 정문 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5318,7 +5318,7 @@ question,label
 배재대 후문 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 후문 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5446,7 +5446,7 @@ question,label
 배재대 인근 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 인근 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5574,7 +5574,7 @@ question,label
 배재대 주위 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주위 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5702,7 +5702,7 @@ question,label
 배재대 옆 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 옆 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 옆 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5830,7 +5830,7 @@ question,label
 배재대 부근 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 부근 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -5958,7 +5958,7 @@ question,label
 배재대 근방 인기있는 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근방 인기있는 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6086,7 +6086,7 @@ question,label
 배재대 근처 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근처 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근처 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6214,7 +6214,7 @@ question,label
 배재대 주변 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주변 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주변 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6342,7 +6342,7 @@ question,label
 배재대 정문 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 정문 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 정문 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6470,7 +6470,7 @@ question,label
 배재대 후문 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 후문 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 후문 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6598,7 +6598,7 @@ question,label
 배재대 인근 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 인근 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 인근 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6726,7 +6726,7 @@ question,label
 배재대 주위 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 주위 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 주위 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6854,7 +6854,7 @@ question,label
 배재대 옆 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 옆 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 옆 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 옆 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -6982,7 +6982,7 @@ question,label
 배재대 부근 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 부근 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 부근 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -7110,7 +7110,7 @@ question,label
 배재대 근방 괜찮은 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 괜찮은 피자 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 괜찮은 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O
+배재대 근방 괜찮은 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 괜찮은 닭발 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 괜찮은 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
 배재대 근방 괜찮은 횟집 추천해 주라,S-LOCATION O O S-PLACE O O
@@ -7238,7 +7238,7 @@ question,label
 배재대 근처 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근처 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -7366,7 +7366,7 @@ question,label
 배재대 주변 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주변 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -7494,7 +7494,7 @@ question,label
 배재대 정문 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 정문 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -7622,7 +7622,7 @@ question,label
 배재대 후문 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 후문 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -7750,7 +7750,7 @@ question,label
 배재대 인근 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 인근 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -7878,7 +7878,7 @@ question,label
 배재대 주위 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주위 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8006,7 +8006,7 @@ question,label
 배재대 옆 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 옆 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 옆 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8134,7 +8134,7 @@ question,label
 배재대 부근 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 부근 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8262,7 +8262,7 @@ question,label
 배재대 근방 유명한 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 유명한 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 유명한 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근방 유명한 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 유명한 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 유명한 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 유명한 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8390,7 +8390,7 @@ question,label
 배재대 근처 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근처 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8518,7 +8518,7 @@ question,label
 배재대 주변 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주변 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8646,7 +8646,7 @@ question,label
 배재대 정문 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 정문 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8774,7 +8774,7 @@ question,label
 배재대 후문 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 후문 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -8902,7 +8902,7 @@ question,label
 배재대 인근 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 인근 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -9030,7 +9030,7 @@ question,label
 배재대 주위 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주위 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -9158,7 +9158,7 @@ question,label
 배재대 옆 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 옆 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 옆 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -9286,7 +9286,7 @@ question,label
 배재대 부근 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 부근 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -9414,7 +9414,7 @@ question,label
 배재대 근방 소문난 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 소문난 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 소문난 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근방 소문난 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 소문난 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 소문난 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 소문난 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -9536,21 +9536,21 @@ question,label
 배재대 근처 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근처 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근처 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근처 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 근처 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 근처 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -9664,21 +9664,21 @@ question,label
 배재대 주변 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주변 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주변 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주변 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 주변 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 주변 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -9792,21 +9792,21 @@ question,label
 배재대 정문 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 정문 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 정문 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 정문 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 정문 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 정문 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -9860,13 +9860,13 @@ question,label
 배재대 후문 인기있는 맛집 삼겹살 추천해 줘,S-LOCATION O O S-PLACE O O O
 배재대 후문 인기있는 맛집 짜장면 추천해 줘,S-LOCATION O O S-PLACE O O O
 배재대 후문 인기있는 맛집 칼국수 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 피자 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 떡볶이 추천해 줘,S-LOCATION O O S-PLACE O O O
+배재대 후문 인기있는 맛집 피자 추천해 줘,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 떡볶이 추천해 줘,S-LOCATION O O O S-PLACE O O
 배재대 후문 인기있는 맛집 짬뽕 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 닭발 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 돈가스 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 횟집 추천해 줘,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 냉면 추천해 줘,S-LOCATION O O S-PLACE O O O
+배재대 후문 인기있는 맛집 닭발 추천해 줘,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 돈가스 추천해 줘,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 횟집 추천해 줘,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 냉면 추천해 줘,S-LOCATION O O O S-PLACE O O
 배재대 후문 인기있는 맛집 아귀찜 추천해 줘,S-LOCATION O O S-PLACE O O O
 배재대 후문 인기있는 맛집 삼계탕 추천해 줘,S-LOCATION O O S-PLACE O O O
 배재대 후문 인기있는 맛집 콩국수 추천해 줘,S-LOCATION O O S-PLACE O O O
@@ -9920,21 +9920,21 @@ question,label
 배재대 후문 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 후문 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 후문 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 후문 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 후문 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 후문 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -10048,21 +10048,21 @@ question,label
 배재대 인근 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 인근 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 인근 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 인근 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 인근 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 인근 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -10176,21 +10176,21 @@ question,label
 배재대 주위 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 주위 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주위 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 주위 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 주위 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 주위 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -10310,7 +10310,7 @@ question,label
 배재대 옆 인기있는 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 인기있는 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 인기있는 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 옆 인기있는 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 옆 인기있는 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 인기있는 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 인기있는 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 옆 인기있는 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -10432,21 +10432,21 @@ question,label
 배재대 부근 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 부근 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 부근 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 부근 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 부근 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 부근 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -10560,21 +10560,21 @@ question,label
 배재대 근방 인기있는 맛집 콩국수 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 맛집 중국집 알고싶어,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 맛집 카페 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 피자 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O S-PLACE O O
-배재대 근방 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근방 인기있는 맛집 고깃집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 삼겹살 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 짜장면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 칼국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 피자 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 떡볶이 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 짬뽕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 닭발 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 돈가스 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 횟집 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 냉면 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 아귀찜 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 삼계탕 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 콩국수 추천해 주라,S-LOCATION O O O S-PLACE O O
+배재대 근방 인기있는 맛집 중국집 추천해 주라,S-LOCATION O O O S-PLACE O O
 배재대 근방 인기있는 맛집 카페 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 맛집 고깃집 알려주세요,S-LOCATION O O S-PLACE O O
 배재대 근방 인기있는 맛집 삼겹살 알려주세요,S-LOCATION O O S-PLACE O O
@@ -10694,7 +10694,7 @@ question,label
 배재대 근처 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근처 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근처 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근처 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -10822,7 +10822,7 @@ question,label
 배재대 주변 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주변 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주변 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주변 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -10950,7 +10950,7 @@ question,label
 배재대 정문 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 정문 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 정문 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 정문 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -11078,7 +11078,7 @@ question,label
 배재대 후문 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 후문 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 후문 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 후문 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -11206,7 +11206,7 @@ question,label
 배재대 인근 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 인근 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 인근 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 인근 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -11334,7 +11334,7 @@ question,label
 배재대 주위 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 주위 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 주위 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 주위 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -11590,7 +11590,7 @@ question,label
 배재대 부근 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 부근 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 부근 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 부근 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
@@ -11718,7 +11718,7 @@ question,label
 배재대 근방 괜찮은 칼국수 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 괜찮은 피자 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 괜찮은 떡볶이 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
-배재대 근방 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O
+배재대 근방 괜찮은 짬뽕 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 괜찮은 닭발 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 괜찮은 돈가스 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
 배재대 근방 괜찮은 횟집 맛집 추천해 주라,S-LOCATION O O S-PLACE O O O
