@@ -9,6 +9,7 @@ from kocrawl.weather import WeatherCrawler
 from kochat.app import Scenario
 from kocrawl.map import MapCrawler
 
+
 weather = Scenario(
     intent='weather',
     api=WeatherCrawler().request,
