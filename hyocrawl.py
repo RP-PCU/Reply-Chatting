@@ -49,3 +49,9 @@ with open('professor_info.txt', "w") as f:
     for line in lines:
         if line.strip("\n") != "테이블 캡션":
             f.write(line)
+            
+# %%
+cd = ["김창수", "정회경"]
+for i in cd:
+    print(i)
+    
