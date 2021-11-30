@@ -1,31 +1,19 @@
-"""
-@auther Hyunwoong
-@since 7/1/2020
-@see https://github.com/gusdnd852
-"""
+
 
 from kocrawl.dust import DustCrawler
 from kocrawl.weather import WeatherCrawler
 from kochat.app import Scenario
 from kocrawl.map import MapCrawler
+from hyocrawl import Hcrawl
 
-
-weather = Scenario(
-    intent='weather',
-    api=WeatherCrawler().request,
+professor = Scenario(
+    intent='professor',
+    api=Hcrawl().request,
     scenario={
-        'LOCATION': [],
-        'DATE': ['오늘']
+        'NAME': []
     }
-)
-
-dust = Scenario(
-    intent='dust',
-    api=DustCrawler().request,
-    scenario={
-        'LOCATION': [],
-        'DATE': ['오늘']
-    }
+    
+    
 )
 
 restaurant = Scenario(
