@@ -159,7 +159,27 @@ class KochatApi:
                 'state': 'REQUEST_ENTITY',
                 'answer': None
             }
+            
+        @self.app.route('/{hyocrawl.py}/<uid>/<text>'.format(self.get_prof_url_pattern), methods=['GET'])
+        def get_prof(uid: str, text: str) -> dict:
+            """
+            Professor 정보를 받아오는것을 수행합니다.
 
+            :param text: 유저 입력 문자열
+            :return: json 딕셔너리
+            """
+
+            prep = self.dataset.load_predict(text, self.embed_processor)
+            professor = self.dialogue_cache[uid]['input']
+            return {
+                'input': text,
+                'intent': None,
+                'entity': None,
+                'state': 'REQUEST_PROF',
+                'answer': None,
+                'professor' : professor
+            }
+            
     def __fit_intent(self):
         """
         Intent Classifier를 학습합니다.
