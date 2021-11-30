@@ -52,42 +52,42 @@ body {
 }
 
 .messages .message.left .avatar {
-    background-color: #c48843;
+    background-color: #82b0e4;
     float: left;
 }
 
 .messages .message.left .text_wrapper {
-    background-color: #ffe6cb;
+    background-color: #c0d7f0;
     margin-left: 20px;
 }
 
 .messages .message.left .text_wrapper::after, .messages .message.left .text_wrapper::before {
     right: 100%;
-    border-right-color: #ffe6cb;
+    border-right-color: #c0d7f0;
 }
 
 .messages .message.left .text {
-    color: #c48843;
+    color: #82b0e4;;
 }
 
 .messages .message.right .avatar {
-    background-color: #45829b;
+    background-color: #3edbc6;
     float: right;
 }
 
 .messages .message.right .text_wrapper {
-    background-color: #c7eafc;
+    background-color: #b1e7e0;
     margin-right: 20px;
     float: right;
 }
 
 .messages .message.right .text_wrapper::after, .messages .message.right .text_wrapper::before {
     left: 100%;
-    border-left-color: #c7eafc;
+    border-left-color: #b1e7e0;
 }
 
 .messages .message.right .text {
-    color: #45829b;
+    color: #3edbc6;
 }
 
 .messages .message.appeared {
@@ -97,7 +97,7 @@ body {
 .messages .message .avatar {
     width: 60px;
     height: 60px;
-    border-radius: 50%;
+    border-radius: 20px;
     display: inline-block;
 }
 

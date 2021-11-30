@@ -9,8 +9,6 @@ import sys
 url = 'https://www.pcu.ac.kr/kor/28/addressBook'
 
 response = requests.get(url)
-
-
     
 #크롬 웹 드라이버의 경로를 설정합니다.
 #경로 오류나면 이것과 같이 정방향 슬래쉬로 설정    
@@ -20,7 +18,7 @@ driver = webdriver.Chrome(path)
 #접속 시도
 driver.get(url)
 #웹페이지가 로딩되기까지 시간이 필요해서 sleep을 이용해 기다림
-time.sleep(2) #1.5초
+time.sleep(2) #2초
 
 
 query_txt = ['강명숙','이현주','손의성','이성덕','박석준','백낙천','심혜령','지현숙','최정순','정순분','강수자','김우승',
@@ -48,7 +46,6 @@ for i in query_txt:
     element.send_keys("\n")  #엔터효과
     #검색창의 이름을 찾아서 검색어를 입력
 
-
     html = response.text
     soup = BeautifulSoup(html, 'html.parser')
     tbody = soup.select_one('#addrdss_list > table > tbody')
@@ -59,5 +56,4 @@ for i in query_txt:
     print(professor)
     
     element.clear() #검색창 클리어
-    
     
