@@ -119,5 +119,7 @@ API = {
     'request_chat_url_pattern': 'request_chat',  # request_chat 기능 url pattern
     'fill_slot_url_pattern': 'fill_slot',  # fill_slot 기능 url pattern
     'get_intent_url_pattern': 'get_intent',  # get_intent 기능 url pattern
-    'get_entity_url_pattern': 'get_entity'  # get_entity 기능 url pattern
+    'get_entity_url_pattern': 'get_entity',  # get_entity 기능 url pattern
+    'get_prof_url_pattern': 'get_prof',   #get_prof 기능 url pattern
+    'crawl_url_pattern': 'crawl'   #crawl 기능 url pattern
 }

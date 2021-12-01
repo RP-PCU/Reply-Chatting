@@ -22,6 +22,12 @@ from kochat.app.scenario_manager import ScenarioManager
 from kochat.data.dataset import Dataset
 from kochat.decorators import api
 
+from os import terminal_size
+from numpy.lib.shape_base import column_stack
+import pandas as pd
+from pandas._config.config import reset_option
+from pandas.core.frame import DataFrame 
+
 
 @api
 class KochatApi:
@@ -160,7 +166,7 @@ class KochatApi:
                 'answer': None
             }
             
-        @self.app.route('/{hyocrawl.py}/<uid>/<text>'.format(self.get_prof_url_pattern), methods=['GET'])
+        @self.app.route('/{}/<uid>/<text>'.format(self.get_prof_url_pattern), methods=['GET'])
         def get_prof(uid: str, text: str) -> dict:
             """
             Professor 정보를 받아오는것을 수행합니다.
@@ -179,6 +185,21 @@ class KochatApi:
                 'answer': None,
                 'professor' : professor
             }
+        @self.app.route('/{}/<text>'.format(self.crawl_url_pattern),methods = ['GET'])
+        def crawl(text: str):
+            # professor.txt의 
+            csv_p = pd.read_csv('professor_info.txt', encoding = 'euc-kr', sep=" ")
+            # data 데이터프레임 형식으로 변환 
+            df = pd.DataFrame(csv_p)
+            # df의 컬럼의 이름을 변경 
+            df.rename(columns={"성명":"name"}, inplace=True)
+            # "user"에게 받은 교수님의 성함을 입력받아서 교수님의 정보를 가진 행을 찾기
+            answer = df["name"] == self.professor
+            result = df[answer]
+            
+            return result
+
+            
             
     def __fit_intent(self):
         """
