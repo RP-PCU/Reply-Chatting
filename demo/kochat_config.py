@@ -32,7 +32,7 @@ DATA = {
     'intent_data_dir': BASE['root_dir'] + "data{_}intent_data.csv".format(_=_),  # 생성된 인텐트 데이터 파일 경로
     'entity_data_dir': BASE['root_dir'] + "data{_}entity_data.csv".format(_=_),  # 생성된 엔티티 데이터 파일 경로
 
-    'NER_categories': ['NAME', 'LOCATION', 'RESTAURANT', 'PLACE'],  # 사용자 정의 태그
+    'NER_categories': ['DATE', 'LOCATION', 'RESTAURANT', 'PLACE'],  # 사용자 정의 태그
     'NER_tagging': ['B', 'E', 'I', 'S'],  # NER의 BEGIN, END, INSIDE, SINGLE 태그
     'NER_outside': 'O',  # NER의 O태그 (Outside를 의미)
 }
@@ -119,5 +119,7 @@ API = {
     'request_chat_url_pattern': 'request_chat',  # request_chat 기능 url pattern
     'fill_slot_url_pattern': 'fill_slot',  # fill_slot 기능 url pattern
     'get_intent_url_pattern': 'get_intent',  # get_intent 기능 url pattern
-    'get_entity_url_pattern': 'get_entity'  # get_entity 기능 url pattern
+    'get_entity_url_pattern': 'get_entity',  # get_entity 기능 url pattern
+    'get_prof_url_pattern': 'get_prof',  # get_prof 기능 url pattern
+    'crawl_url_pattern': 'crawl'  # crawl 기능 url pattern
 }
