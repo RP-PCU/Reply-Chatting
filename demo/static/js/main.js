@@ -130,23 +130,13 @@ function onSendButtonClicked() {
             }, 1000);
 
 
-        } else if(messageText.includes("교수님")) {
-            setTimeout(function () {
-                return sendMessage("찾으실 교수님 성함을 입력해주세요.", 'left');
-            }, 1000);
-            // 1. child-process모듈의 spawn 취득 
-            const spawn = require('child_process').spawn;
-            // 2. spawn을 통해 "python 파이썬파일.py" 명령어 실행
-            const result = spawn('python', ['hyocrawl.py']); 
-            if($('.message.right.text') == Hcrawl(user)) {
-                return $('.message.right.text').value();
-            }
-            // 3. stdout의 'data'이벤트리스너로 실행결과를 받는다. 
-            result.stdout.on('data', function(data) { 
-                console.log(data.toString());}); 
-            // 4. 에러 발생 시, stderr의 'data'이벤트리스너로 실행결과를 받는다. 
-            result.stderr.on('data', function(data) { 
-                console.log(data.toString()); });
+        }else if (messageText.includes('교수님')){
+                setTimeout(function () {
+                    return sendMessage("찾으실 교수님 성함을 입력해주세요", 'left');
+                }, 1000);
+                return requestChat(messageText, 'get_prof');
+            
+    
         
         
         } else if (state.includes('REQUIRE')) {
