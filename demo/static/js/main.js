@@ -128,6 +128,7 @@ function onSendButtonClicked() {
             setTimeout(function () {
                 return sendMessage("그렇군요. 알겠습니다!", 'left');
             }, 1000);
+<<<<<<< HEAD
         }
         else if (messageText.includes('교수님')){
             setTimeout(function () {
@@ -135,6 +136,20 @@ function onSendButtonClicked() {
             }, 1000);
         } 
         else if (state.includes('REQUIRE')) {
+=======
+
+
+        }else if (messageText.includes('교수님')){
+                setTimeout(function () {
+                    return sendMessage("찾으실 교수님 성함을 입력해주세요", 'left');
+                }, 1000);
+                return requestChat(messageText, 'get_prof');
+            
+    
+        
+        
+        } else if (state.includes('REQUIRE')) {
+>>>>>>> 8ff3379d27a573de21409c5a3112cd4798963c32
             return requestChat(messageText, 'fill_slot');
         } else if(state.includes('REQUEST_PROF')) {
             return requestChat(messageText, 'get_prof');
