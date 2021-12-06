@@ -66,7 +66,7 @@ function setUserName(username) {
             return sendMessage("저는 배재대학교의 관련된 내용을 알려주는 배재봇입니다.", 'left');
         }, 2000);
         setTimeout(function () {
-            return sendMessage("배재대학교 건물위치,맛집 정보에 대해 물어봐주세요!", 'left');
+            return sendMessage("배재대학교 건물위치,맛집, 교수님 정보에 대해 물어봐주세요!", 'left');
         }, 3000);
         setTimeout(function () {
             return sendMessage("질문앞에 배재대 혹은 배재대학교를 붙여서 질문해주세요!", 'left');
@@ -85,7 +85,7 @@ function setUserName(username) {
 
 function requestChat(messageText, url_pattern) {
     $.ajax({
-        url: "http://127.0.0.1:8080/" + url_pattern + '/' + userName + '/' + messageText,
+        url: "http://127.0.0.1:8080/" + url_pattern + '/' + userName + '/' + messageText + '/' + professor,
         type: "GET",
         dataType: "json",
         success: function (data) {
@@ -131,25 +131,25 @@ function onSendButtonClicked() {
                 return sendMessage("그렇군요. 알겠습니다!", 'left');
             }, 1000);
 
-
-        }else if (messageText.includes('교수님')){
-                setTimeout(function () {
-                    return sendMessage("찾으실 교수님 성함을 입력해주세요", 'left');
-                }, 1000);
-               
-            
-    
+        }
+        else if (messageText.includes('교수님')){
+            setTimeout(function () {
+                return sendMessage("찾으실 교수님 성함을 입력해주세요", 'left');
+            }, 1000);
+        
+        
         
         
         } else if (state.includes('REQUIRE')) {
+
             return requestChat(messageText, 'fill_slot');
+
         } else if (state.includes('REQUEST_PROF')) {
+
             return requestChat(messageText, 'get_prof');
         } else {
             return requestChat(messageText, 'request_chat');
-        } 
-
-        
+        }   
     }
 }
 /*

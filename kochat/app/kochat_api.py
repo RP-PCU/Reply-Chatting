@@ -187,6 +187,7 @@ class KochatApi:
             }
         @self.app.route('/{}/<text>'.format(self.crawl_url_pattern),methods = ['GET'])
         def crawl(text: str):
+
             # professor.txt의 
             csv_p = pd.read_csv('professor_info.txt', encoding = 'euc-kr', sep=" ")
             # data 데이터프레임 형식으로 변환 
@@ -194,12 +195,12 @@ class KochatApi:
             # df의 컬럼의 이름을 변경 
             df.rename(columns={"성명":"name"}, inplace=True)
             # "user"에게 받은 교수님의 성함을 입력받아서 교수님의 정보를 가진 행을 찾기
-            answer = df["name"] == self.text
+
+            answer = df["name"] == text
             result = df[answer]
             
-            return result
+            return result    
 
-            
             
     def __fit_intent(self):
         """
