@@ -95,6 +95,8 @@ function requestChat(messageText, url_pattern) {
                 return sendMessage(data['answer'], 'left');
             } else if (state === 'REQUIRE_LOCATION') {
                 return sendMessage('배재대 혹은 배재대학교를 입력해주세요!', 'left');
+            } else if (state === 'REQUEST_PROF') {
+                return sendMessage(data['answer'], 'left');
             } else {
                 return sendMessage('죄송합니다. 무슨말인지 잘 모르겠어요.', 'left');
             }
@@ -134,13 +136,15 @@ function onSendButtonClicked() {
                 setTimeout(function () {
                     return sendMessage("찾으실 교수님 성함을 입력해주세요", 'left');
                 }, 1000);
-                return requestChat(messageText, 'get_prof');
+               
             
     
         
         
         } else if (state.includes('REQUIRE')) {
             return requestChat(messageText, 'fill_slot');
+        } else if (state.includes('REQUEST_PROF')) {
+            return requestChat(messageText, 'get_prof');
         } else {
             return requestChat(messageText, 'request_chat');
         } 

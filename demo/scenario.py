@@ -4,17 +4,17 @@ from kocrawl.dust import DustCrawler
 from kocrawl.weather import WeatherCrawler
 from kochat.app import Scenario
 from kocrawl.map import MapCrawler
-from hyocrawl import Hcrawl
+"""from hocrawl_test.hyocrawl import Hcrawl
 
 professor = Scenario(
-    intent='professor',
+    intent='NAME',
     api=Hcrawl().request,
     scenario={
         'NAME': []
     }
     
     
-)
+)"""
 
 restaurant = Scenario(
     intent='restaurant',

@@ -174,16 +174,16 @@ class KochatApi:
             :param text: 유저 입력 문자열
             :return: json 딕셔너리
             """
-
+            text = self.dataset.prep.tokenize(text, train=False)
             prep = self.dataset.load_predict(text, self.embed_processor)
-            professor = self.dialogue_cache[uid]['input']
+            text = text + self.dialogue_cache[uid]['input']
             return {
                 'input': text,
-                'intent': None,
+                'intent': 'NAME',
                 'entity': None,
                 'state': 'REQUEST_PROF',
-                'answer': None,
-                'professor' : professor
+                'answer': crawl(text)
+
             }
         @self.app.route('/{}/<text>'.format(self.crawl_url_pattern),methods = ['GET'])
         def crawl(text: str):
@@ -194,7 +194,7 @@ class KochatApi:
             # df의 컬럼의 이름을 변경 
             df.rename(columns={"성명":"name"}, inplace=True)
             # "user"에게 받은 교수님의 성함을 입력받아서 교수님의 정보를 가진 행을 찾기
-            answer = df["name"] == self.professor
+            answer = df["name"] == self.text
             result = df[answer]
             
             return result
