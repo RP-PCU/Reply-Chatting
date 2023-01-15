@@ -9,6 +9,12 @@
 ## 프로젝트 개요
 * "배재대학교 챗봇"이라는 웹 애플리케이션을 프론트엔드 부분은 HTML5, CSS3, JavaScript, Jquery, BootStrap을 사용 하여 구현 하였으며, 백엔드 부분은 "kochat"이라는 오픈소스를 참고하여 구현, DB는 MySQL을 사용했으며 서버는 "REST API"오픈소스를 사용 하였습니다. 사용한 기능으로는 학교에 관련된 데이터와 주변 맛집을 찾는 기능을 사용 하기 위해서 Selenium을 활용해 데이터를 크롤링 하여 DB에 저장 했으며, 오픈소스로 가져온 "REST full API"가 embed, intent, entity순서대로 추가한 초기 데이터를 가지고 학습을 하도록 구현 하였음
 
+## 개발 담당
+* FrontEnd 웹 구현 30%
+* Selenium을 사용한 웹 데이터 크롤링 100%
+* 데이터 DB 저장 및 DB테이블 구성 100%
+* Entity 구현 70%
+
 ## 개발환경
 * Visual Studio Code
 * Virtual Env
