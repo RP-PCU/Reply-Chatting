@@ -23,7 +23,6 @@
 ## 사용기술
 ### Back End
 * Python 
-* Matplotlib
 * Pandas
 * Gensim
 * Numpy
